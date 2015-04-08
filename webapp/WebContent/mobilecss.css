@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+.head
+background-color:#47
+padding:1em;
+}
+.pg-main{
+	padding-right:10px;
+	padding-left:10px;
+	
+}
+.entries p.pcview_only{
+	display:none;
+	
+}
+.sidebar ul{
+	border-left-width:2px;
+	border-left-style:solide;
+	border-left-color:#ccc;
+	
+}
+.siderbar ul li{
+	display:inline;
+	border-right-width:2px;
+	border-right-style:solod;
+	border-right-color:#ccc;
+	padding-right:5px;
+	padding-left:5px;
+	
+}
+font 
